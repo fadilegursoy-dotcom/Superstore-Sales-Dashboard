@@ -60,3 +60,19 @@ Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
     Open it in Power BI Desktop (latest version recommended).
 
     Explore visuals and slicers interactively.
+
+## 🆕 Updates & Enhancements (November 2025)
+
+This Power BI project has been enhanced for improved performance, data accuracy, and visual clarity.
+
+### 🔍 Key Improvements
+- 🧹 **Data Cleaning:** Removed blank and error rows; corrected data types (Date, Decimal, Text).  
+- 🏷️ **Column Standardization:** Replaced spaces in column names with underscores (_) for consistency.  
+- 🔗 **Data Transformation:** Used *Group By* and *Merge Queries* for cleaner relationships between tables.  
+- 📊 **Visualization Optimization:** Improved layout, chart readability, and interactivity.  
+- 🧮 **DAX Enhancements:** Added and optimized measures like *Profit Margin %*, *Total Sales*, *Total Profit*.  
+- ⚙️ **Performance Optimization:** Removed unused columns and optimized relationships to improve refresh speed.  
+- 💾 **Version Update:** Latest version uploaded to GitHub — ready for Power BI Service publishing.
+
+📎 **Download the updated project:**  
+[Superstore-Sales-Dashboard.pbix](Superstore-Sales-Dashboard.pbix)
